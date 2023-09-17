@@ -1,0 +1,19 @@
+[INFO  2023-09-17T11:13:06,687 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.4 
+[INFO  2023-09-17T11:13:06,719 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2023-09-17T11:13:06,755 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2023-09-17T11:13:06,884 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@0.0.0.0:8080 
+[INFO  2023-09-17T11:13:39,482 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2023-09-17T11:13:39,537 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Proxy listening with TCP transport 
+[INFO  2023-09-17T11:13:39,612 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+[INFO  2023-09-17T11:14:07,082 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-19) Starting proxy at address: 0.0.0.0/0.0.0.0:8082 
+[INFO  2023-09-17T11:14:07,083 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-19) Proxy listening with TCP transport 
+[INFO  2023-09-17T11:14:07,085 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-19) Proxy started at address: /0:0:0:0:0:0:0:0:8082 
+[WARN  2023-09-17T11:14:18,928 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-1-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2023-09-17T11:21:17,240 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8083 
+[INFO  2023-09-17T11:21:17,241 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Proxy listening with TCP transport 
+[INFO  2023-09-17T11:21:17,242 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-17) Proxy started at address: /0:0:0:0:0:0:0:0:8083 
+[WARN  2023-09-17T11:21:23,302 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-2-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2023-09-17T11:21:48,078 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-20) Starting proxy at address: 0.0.0.0/0.0.0.0:8084 
+[INFO  2023-09-17T11:21:48,079 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-20) Proxy listening with TCP transport 
+[INFO  2023-09-17T11:21:48,079 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp229919394-20) Proxy started at address: /0:0:0:0:0:0:0:0:8084 
+[WARN  2023-09-17T11:21:56,859 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-3-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
